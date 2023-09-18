@@ -9,3 +9,8 @@
 
 ![image](https://github.com/gunjankhanal/kubernetes-examples-/assets/20742236/425531c0-b869-468d-9367-e562852af9be)
 
+Create Role-Binding
+![image](https://github.com/gunjankhanal/kubernetes-examples-/assets/20742236/a278cfc5-69fd-449a-b481-708a9df866f8)
+
+![Uploading image.png…]()
+
